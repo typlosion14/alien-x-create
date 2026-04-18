@@ -1,0 +1,26 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "alienevo:galvan_scrap"
+    },
+    {
+      "item": "alienevo:galvan_scrap"
+    },
+    {
+      "item": "alienevo:galvan_scrap"
+    },
+    {
+      "item": "alienevo:galvan_scrap"
+    },
+    {
+      "tag": "forge:raw_materials/titanium"
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:galvan_metal",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "alienevo:upgrade_chip"
+    }
+  ],
+  "results": [
+    {
+      "item": "aeo:advanced_galvan_circuit",
+      "count": 1
+    }
+  ]
+}

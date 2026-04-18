@@ -1,0 +1,16 @@
+{
+  "type": "create:crushing",
+  "processingTime": 5,
+  "ingredients": [
+    {
+      "tag": "forge:sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "omni_extras:grounded_mystery_scrap",
+      "count": 1,
+      "chance": 0.2
+    }
+  ]
+}

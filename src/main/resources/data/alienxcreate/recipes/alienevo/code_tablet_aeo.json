@@ -1,0 +1,45 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:gems/amethyst"
+  },
+  "transitionalItem": {
+    "item": "alienxcreate:incomplete_tablet"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_tablet" },
+        {
+          "item": "aeo:advanced_galvan_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_tablet" },
+        {
+          "tag": "forge:ingots/titanium"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_tablet"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:code_tablet"
+    }
+  ],
+  "loops": 3
+}

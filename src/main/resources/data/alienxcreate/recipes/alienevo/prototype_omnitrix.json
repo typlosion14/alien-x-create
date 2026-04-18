@@ -1,0 +1,45 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "alienevo:prototype_core"
+  },
+  "transitionalItem": {
+    "item": "alienxcreate:incomplete_omnitrix"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_omnitrix" },
+        {
+          "item": "alienevo:galvan_metal"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_omniverse_omnitrix"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_omnitrix" },
+        {
+          "item": "alienevo:upgrade_chip"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_omnitrix"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:prototype_omnitrix"
+    }
+  ],
+  "loops": 4
+}

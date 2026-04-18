@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "values": [
+    "alienxcreate:budding_titanium",
+    "alienxcreate:titanium_cluster",
+    "alienxcreate:small_titanium_bud",
+    "alienxcreate:medium_titanium_bud",
+    "alienxcreate:large_titanium_bud",
+
+    "alienxcreate:budding_galvan",
+    "alienxcreate:galvan_cluster",
+    "alienxcreate:small_galvan_bud",
+    "alienxcreate:medium_galvan_bud",
+    "alienxcreate:large_galvan_bud"
+  ]
+}

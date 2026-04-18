@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up": { "model": "alienxcreate:block/titanium_cluster" },
+    "facing=down": { "model": "alienxcreate:block/titanium_cluster", "x": 180 },
+    "facing=north": { "model": "alienxcreate:block/titanium_cluster", "x": 90 },
+    "facing=south": { "model": "alienxcreate:block/titanium_cluster", "x": 90, "y": 180 },
+    "facing=west": { "model": "alienxcreate:block/titanium_cluster", "x": 90, "y": 270 },
+    "facing=east": { "model": "alienxcreate:block/titanium_cluster", "x": 90, "y": 90 }
+  }
+}

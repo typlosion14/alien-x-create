@@ -1,0 +1,20 @@
+{
+  "block.alienxcreate.small_titanium_bud": "Piccola gemma di titanio",
+  "block.alienxcreate.medium_titanium_bud": "Gemma di titanio media",
+  "block.alienxcreate.large_titanium_bud": "Grande gemma di titanio",
+  "block.alienxcreate.titanium_cluster": "Grappolo di titanio",
+  "block.alienxcreate.budding_titanium": "Titanio germogliante",
+  "block.alienxcreate.small_galvan_bud": "Piccola gemma di galvan",
+  "block.alienxcreate.medium_galvan_bud": "Gemma di galvan media",
+  "block.alienxcreate.large_galvan_bud": "Grande gemma di galvan",
+  "block.alienxcreate.galvan_cluster": "Grappolo di galvan",
+  "block.alienxcreate.budding_galvan": "Galvan germogliante",
+  "item.alienxcreate.titanium_nugget": "Pepita di titanio",
+  "item.alienxcreate.incomplete_galvan_plate": "Piastra di galvan incompleta",
+  "item.alienxcreate.incomplete_galvan_circuit": "Circuito di galvan incompleto",
+  "item.alienxcreate.incomplete_tablet": "Tavoletta incompleta",
+  "item.alienxcreate.incomplete_omnitrix": "Omnitrix incompleto",
+  "item.alienxcreate.incomplete_omniverse_omnitrix": "Omnitrix Omniverse incompleto",
+  "item.alienxcreate.incomplete_reinforced_galvan_plate": "Piastra di galvan rinforzata incompleta",
+  "creativetab.alienxcreate.titanium_tab": "Create X Alien"
+}

@@ -1,0 +1,20 @@
+{
+  "block.alienxcreate.small_titanium_bud": "Broto pequeno de tit\u00e2nio",
+  "block.alienxcreate.medium_titanium_bud": "Broto m\u00e9dio de tit\u00e2nio",
+  "block.alienxcreate.large_titanium_bud": "Broto grande de tit\u00e2nio",
+  "block.alienxcreate.titanium_cluster": "Aglomerado de tit\u00e2nio",
+  "block.alienxcreate.budding_titanium": "Tit\u00e2nio em brota\u00e7\u00e3o",
+  "block.alienxcreate.small_galvan_bud": "Broto pequeno de galvan",
+  "block.alienxcreate.medium_galvan_bud": "Broto m\u00e9dio de galvan",
+  "block.alienxcreate.large_galvan_bud": "Broto grande de galvan",
+  "block.alienxcreate.galvan_cluster": "Aglomerado de galvan",
+  "block.alienxcreate.budding_galvan": "Galvan em brota\u00e7\u00e3o",
+  "item.alienxcreate.titanium_nugget": "Pepita de tit\u00e2nio",
+  "item.alienxcreate.incomplete_galvan_plate": "Placa de galvan incompleta",
+  "item.alienxcreate.incomplete_galvan_circuit": "Circuito de galvan incompleto",
+  "item.alienxcreate.incomplete_tablet": "Tablet incompleto",
+  "item.alienxcreate.incomplete_omnitrix": "Omnitrix incompleto",
+  "item.alienxcreate.incomplete_omniverse_omnitrix": "Omnitrix Omniverse incompleto",
+  "item.alienxcreate.incomplete_reinforced_galvan_plate": "Placa de galvan refor\u00e7ada incompleta",
+  "creativetab.alienxcreate.titanium_tab": "Create X Alien"
+}

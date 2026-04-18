@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "omni_extras:virandium_plate"
+    },
+    {
+      "tag": "forge:dyes/yellow"
+    }
+  ],
+  "results": [
+    {
+      "item": "omni_extras:yellow_virandium_plate"
+    }
+  ]
+}

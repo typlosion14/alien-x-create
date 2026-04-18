@@ -1,0 +1,70 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:raw_materials/titanium"
+  },
+  "transitionalItem": {
+    "item": "alienxcreate:incomplete_galvan_circuit"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_galvan_circuit" },
+        {
+          "item": "alienevo:galvan_metal"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_galvan_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_galvan_circuit" },
+        {
+          "item": "alienevo:galvan_metal"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_galvan_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_galvan_circuit" },
+        {
+          "tag": "alienevo:upgrade_crystals"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_galvan_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_galvan_circuit" }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_galvan_circuit"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:upgrade_chip"
+    }
+  ],
+  "loops": 2
+}

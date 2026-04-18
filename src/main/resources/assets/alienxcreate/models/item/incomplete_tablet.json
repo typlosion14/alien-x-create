@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alienxcreate:item/incomplete_tablet"
+  }
+}

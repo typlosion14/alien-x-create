@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "processingTime": 15,
+  "ingredients": [
+    {
+      "item": "alienevo:omnitrix_workbench"
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:galvan_scrap",
+      "count": 4,
+      "chance": 0.8
+    },
+    {
+      "item": "alienevo:galvan_metal",
+      "count": 2,
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:iron_block",
+      "count": 2,
+      "chance": 0.1
+    }
+  ]
+}

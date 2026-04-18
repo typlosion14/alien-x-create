@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cross",
+  "render_type": "cutout",
+  "textures": {
+    "particle": "alienxcreate:block/large_titanium_bud",
+    "cross": "alienxcreate:block/large_titanium_bud"
+  }
+}

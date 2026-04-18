@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "processingTime": 15,
+  "ingredients": [
+    {
+      "item": "alienevo:machined_metal"
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:upgrade_shards",
+      "count": 1
+    }
+  ]
+}

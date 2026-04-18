@@ -1,0 +1,20 @@
+{
+  "block.alienxcreate.small_titanium_bud": "Kleine Titanknospe",
+  "block.alienxcreate.medium_titanium_bud": "Mittlere Titanknospe",
+  "block.alienxcreate.large_titanium_bud": "Gro\u00dfe Titanknospe",
+  "block.alienxcreate.titanium_cluster": "Titancluster",
+  "block.alienxcreate.budding_titanium": "Knospender Titan",
+  "block.alienxcreate.small_galvan_bud": "Kleine Galvanknospe",
+  "block.alienxcreate.medium_galvan_bud": "Mittlere Galvanknospe",
+  "block.alienxcreate.large_galvan_bud": "Gro\u00dfe Galvanknospe",
+  "block.alienxcreate.galvan_cluster": "Galvancluster",
+  "block.alienxcreate.budding_galvan": "Knospender Galvan",
+  "item.alienxcreate.titanium_nugget": "Titanklumpen",
+  "item.alienxcreate.incomplete_galvan_plate": "Unvollst\u00e4ndige Galvanplatte",
+  "item.alienxcreate.incomplete_galvan_circuit": "Unvollst\u00e4ndiger Galvanschaltkreis",
+  "item.alienxcreate.incomplete_tablet": "Unvollst\u00e4ndiges Tablet",
+  "item.alienxcreate.incomplete_omnitrix": "Unvollst\u00e4ndige Omnitrix",
+  "item.alienxcreate.incomplete_omniverse_omnitrix": "Unvollst\u00e4ndige Omniverse-Omnitrix",
+  "item.alienxcreate.incomplete_reinforced_galvan_plate": "Unvollst\u00e4ndige verst\u00e4rkte Galvanplatte",
+  "creativetab.alienxcreate.titanium_tab": "Create X Alien"
+}

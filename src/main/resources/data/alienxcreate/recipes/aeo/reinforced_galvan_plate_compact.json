@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "aeo:reinforced_galvan_alloy",
+      "count": 4
+    },
+    {
+      "tag": "forge:raw_materials/titanium",
+      "count": 1
+    }
+  ],
+  "results": [
+    {
+      "item": "aeo:reinforced_galvan_plate",
+      "count": 1
+    }
+  ]
+}

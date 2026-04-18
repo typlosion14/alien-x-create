@@ -1,0 +1,38 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "alienevo:galvan_scrap"
+    },
+    {
+      "item": "alienevo:galvan_scrap"
+    },
+    {
+      "item": "alienevo:galvan_scrap"
+    },
+    {
+      "item": "alienevo:galvan_scrap"
+    },
+    {
+      "tag": "forge:dyes/lime"
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:upgrade_crystal",
+      "count": 1
+    }
+  ]
+}

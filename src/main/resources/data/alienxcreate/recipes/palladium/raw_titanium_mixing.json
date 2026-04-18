@@ -1,0 +1,42 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    },
+    {
+      "item": "alienxcreate:titanium_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "palladium:raw_titanium",
+      "count": 1
+    }
+  ]
+}

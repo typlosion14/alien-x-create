@@ -1,0 +1,20 @@
+{
+  "block.alienxcreate.small_titanium_bud": "\u5c0f\u578b\u949b\u82bd",
+  "block.alienxcreate.medium_titanium_bud": "\u4e2d\u578b\u949b\u82bd",
+  "block.alienxcreate.large_titanium_bud": "\u5927\u578b\u949b\u82bd",
+  "block.alienxcreate.titanium_cluster": "\u949b\u6676\u7c07",
+  "block.alienxcreate.budding_titanium": "\u840c\u82bd\u949b\u5757",
+  "block.alienxcreate.small_galvan_bud": "\u5c0f\u578b\u9550\u82bd",
+  "block.alienxcreate.medium_galvan_bud": "\u4e2d\u578b\u9550\u82bd",
+  "block.alienxcreate.large_galvan_bud": "\u5927\u578b\u9550\u82bd",
+  "block.alienxcreate.galvan_cluster": "\u9550\u6676\u7c07",
+  "block.alienxcreate.budding_galvan": "\u840c\u82bd\u9550\u5757",
+  "item.alienxcreate.titanium_nugget": "\u949b\u7c92",
+  "item.alienxcreate.incomplete_galvan_plate": "\u672a\u5b8c\u6210\u7684\u9550\u677f",
+  "item.alienxcreate.incomplete_galvan_circuit": "\u672a\u5b8c\u6210\u7684\u9550\u7535\u8def",
+  "item.alienxcreate.incomplete_tablet": "\u672a\u5b8c\u6210\u7684\u5e73\u677f",
+  "item.alienxcreate.incomplete_omnitrix": "\u672a\u5b8c\u6210\u7684Omnitrix",
+  "item.alienxcreate.incomplete_omniverse_omnitrix": "\u672a\u5b8c\u6210\u7684\u5168\u5b87\u5b99Omnitrix",
+  "item.alienxcreate.incomplete_reinforced_galvan_plate": "\u672a\u5b8c\u6210\u7684\u5f3a\u5316\u9550\u677f",
+  "creativetab.alienxcreate.titanium_tab": "Create X Alien"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "comment": "I want this to be available only thought create and not minecraft",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "aeo:galvan_alloy_blend"
+  },
+  "result": "aeo:reinforced_galvan_alloy"
+}

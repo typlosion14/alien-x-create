@@ -1,0 +1,27 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "omni_extras:andrium",
+      "count": 2
+    },
+    {
+      "tag": "forge:ingots/titanium",
+      "count": 3
+    },
+    {
+      "tag": "forge:raw_materials/vibranium",
+      "count": 2
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "count": 2
+    }
+  ],
+  "results": [
+    {
+      "item": "omni_extras:virandium_plate",
+      "count": 1
+    }
+  ]
+}

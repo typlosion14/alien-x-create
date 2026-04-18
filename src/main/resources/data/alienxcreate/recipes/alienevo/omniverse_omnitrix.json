@@ -1,0 +1,45 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "alienevo:omniverse_core"
+  },
+  "transitionalItem": {
+    "item": "alienxcreate:incomplete_omniverse_omnitrix"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_omniverse_omnitrix" },
+        {
+          "item": "aeo:reinforced_galvan_plate"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_omniverse_omnitrix"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_omniverse_omnitrix" },
+        {
+          "item": "aeo:advanced_galvan_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_omniverse_omnitrix"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:omniverse_omnitrix"
+    }
+  ],
+  "loops": 4
+}

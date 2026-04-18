@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "processingTime": 5,
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "results": [
+    {
+      "item": "aeo:netherite_dust",
+      "count": 1
+    }
+  ]
+}

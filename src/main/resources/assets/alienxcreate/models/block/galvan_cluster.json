@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/amethyst_cluster",
+  "render_type": "cutout",
+  "textures": {
+    "particle": "alienxcreate:block/galvan_cluster",
+    "cross": "alienxcreate:block/galvan_cluster"
+  }
+}

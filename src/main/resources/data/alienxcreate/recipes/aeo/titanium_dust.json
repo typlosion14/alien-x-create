@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "processingTime": 5,
+  "ingredients": [
+    {
+      "tag": "forge:raw_materials/titanium"
+    }
+  ],
+  "results": [
+    {
+      "item": "aeo:titanium_dust",
+      "count": 1
+    }
+  ]
+}

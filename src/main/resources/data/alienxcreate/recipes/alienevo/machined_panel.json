@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "processingTime": 15,
+  "ingredients": [
+    {
+      "item": "alienevo:machined_panel"
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:upgrade_shards_brown",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "block.alienxcreate.small_titanium_bud": "Petit bourgeon de titane",
+  "block.alienxcreate.medium_titanium_bud": "Bourgeon de titane moyen",
+  "block.alienxcreate.large_titanium_bud": "Grand bourgeon de titane",
+  "block.alienxcreate.titanium_cluster": "Amas de titane",
+  "block.alienxcreate.budding_titanium": "Titane bourgeonnant",
+  "block.alienxcreate.small_galvan_bud": "Petit bourgeon de galvan",
+  "block.alienxcreate.medium_galvan_bud": "Bourgeon de galvan moyen",
+  "block.alienxcreate.large_galvan_bud": "Grand bourgeon de galvan",
+  "block.alienxcreate.galvan_cluster": "Amas de galvan",
+  "block.alienxcreate.budding_galvan": "Galvan bourgeonnant",
+  "item.alienxcreate.titanium_nugget": "P\u00e9pite de titane",
+  "item.alienxcreate.incomplete_galvan_plate": "Plaque de galvan incompl\u00e8te",
+  "item.alienxcreate.incomplete_galvan_circuit": "Circuit de galvan incomplet",
+  "item.alienxcreate.incomplete_tablet": "Tablette incompl\u00e8te",
+  "item.alienxcreate.incomplete_omnitrix": "Omnitrix incomplet",
+  "item.alienxcreate.incomplete_omniverse_omnitrix": "Omnitrix Omniverse incomplet",
+  "item.alienxcreate.incomplete_reinforced_galvan_plate": "Plaque de galvan renforc\u00e9e incompl\u00e8te",
+  "creativetab.alienxcreate.titanium_tab": "Create X Alien"
+}

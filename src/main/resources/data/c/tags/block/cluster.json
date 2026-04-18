@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "alienxcreate:titanium_cluster",
+    "alienxcreate:galvan_cluster",
+    "minecraft:amethyst_cluster"
+  ]
+}

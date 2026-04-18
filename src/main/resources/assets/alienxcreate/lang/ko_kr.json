@@ -1,0 +1,20 @@
+{
+  "block.alienxcreate.small_titanium_bud": "\uc791\uc740 \ud0c0\uc774\ud0c0\ub284 \uc2f9",
+  "block.alienxcreate.medium_titanium_bud": "\uc911\uac04 \ud0c0\uc774\ud0c0\ub284 \uc2f9",
+  "block.alienxcreate.large_titanium_bud": "\ud070 \ud0c0\uc774\ud0c0\ub284 \uc2f9",
+  "block.alienxcreate.titanium_cluster": "\ud0c0\uc774\ud0c0\ub284 \ud074\ub7ec\uc2a4\ud130",
+  "block.alienxcreate.budding_titanium": "\uc2f9\ud2bc \ud0c0\uc774\ud0c0\ub284",
+  "block.alienxcreate.small_galvan_bud": "\uc791\uc740 \uac08\ubc18 \uc2f9",
+  "block.alienxcreate.medium_galvan_bud": "\uc911\uac04 \uac08\ubc18 \uc2f9",
+  "block.alienxcreate.large_galvan_bud": "\ud070 \uac08\ubc18 \uc2f9",
+  "block.alienxcreate.galvan_cluster": "\uac08\ubc18 \ud074\ub7ec\uc2a4\ud130",
+  "block.alienxcreate.budding_galvan": "\uc2f9\ud2bc \uac08\ubc18",
+  "item.alienxcreate.titanium_nugget": "\ud0c0\uc774\ud0c0\ub284 \uc870\uac01",
+  "item.alienxcreate.incomplete_galvan_plate": "\ubbf8\uc644\uc131 \uac08\ubc18 \ud310",
+  "item.alienxcreate.incomplete_galvan_circuit": "\ubbf8\uc644\uc131 \uac08\ubc18 \ud68c\ub85c",
+  "item.alienxcreate.incomplete_tablet": "\ubbf8\uc644\uc131 \ud0dc\ube14\ub9bf",
+  "item.alienxcreate.incomplete_omnitrix": "\ubbf8\uc644\uc131 \uc634\ub2c8\ud2b8\ub9ad\uc2a4",
+  "item.alienxcreate.incomplete_omniverse_omnitrix": "\ubbf8\uc644\uc131 \uc634\ub2c8\ubc84\uc2a4 \uc634\ub2c8\ud2b8\ub9ad\uc2a4",
+  "item.alienxcreate.incomplete_reinforced_galvan_plate": "\ubbf8\uc644\uc131 \uac15\ud654 \uac08\ubc18 \ud310",
+  "creativetab.alienxcreate.titanium_tab": "Create X Alien"
+}

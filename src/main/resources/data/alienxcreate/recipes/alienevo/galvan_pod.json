@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "processingTime": 15,
+  "ingredients": [
+    {
+      "item": "alienevo:galvan_pod"
+    }
+  ],
+  "results": [
+    {
+      "item": "alienevo:galvan_scrap",
+      "count": 4,
+      "chance": 0.9
+    },
+    {
+      "item": "alienevo:galvan_metal",
+      "count": 2,
+      "chance": 0.1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:raw_materials/titanium"
+  },
+  "transitionalItem": {
+    "item": "alienxcreate:incomplete_reinforced_galvan_plate"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_reinforced_galvan_plate" },
+        {
+          "item": "aeo:reinforced_galvan_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_reinforced_galvan_plate"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_reinforced_galvan_plate" },
+        {
+          "item": "aeo:reinforced_galvan_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_reinforced_galvan_plate"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        { "item": "alienxcreate:incomplete_reinforced_galvan_plate" }
+      ],
+      "results": [
+        {
+          "item": "alienxcreate:incomplete_reinforced_galvan_plate"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "aeo:reinforced_galvan_plate"
+    }
+  ],
+  "loops": 2
+}

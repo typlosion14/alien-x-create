@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "processingTime": 5,
+  "ingredients": [
+    {
+      "item": "alienevo:galvan_scrap"
+    }
+  ],
+  "results": [
+    {
+      "item": "aeo:galvan_dust",
+      "count": 1
+    }
+  ]
+}

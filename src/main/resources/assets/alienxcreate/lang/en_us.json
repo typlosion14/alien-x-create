@@ -1,0 +1,20 @@
+{
+  "block.alienxcreate.small_titanium_bud": "Small Titanium Bud",
+  "block.alienxcreate.medium_titanium_bud": "Medium Titanium Bud",
+  "block.alienxcreate.large_titanium_bud": "Large Titanium Bud",
+  "block.alienxcreate.titanium_cluster": "Titanium Cluster",
+  "block.alienxcreate.budding_titanium": "Budding Titanium",
+  "block.alienxcreate.small_galvan_bud": "Small Galvan Bud",
+  "block.alienxcreate.medium_galvan_bud": "Medium Galvan Bud",
+  "block.alienxcreate.large_galvan_bud": "Large Galvan Bud",
+  "block.alienxcreate.galvan_cluster": "Galvan Cluster",
+  "block.alienxcreate.budding_galvan": "Budding Galvan",
+  "item.alienxcreate.titanium_nugget": "Titanium Nugget",
+  "item.alienxcreate.incomplete_galvan_plate": "Incomplete Galvan Plate",
+  "item.alienxcreate.incomplete_galvan_circuit": "Incomplete Galvan Circuit",
+  "item.alienxcreate.incomplete_tablet": "Incomplete Tablet",
+  "item.alienxcreate.incomplete_omnitrix": "Incomplete Omnitrix",
+  "item.alienxcreate.incomplete_omniverse_omnitrix": "Incomplete Omniverse Omnitrix",
+  "item.alienxcreate.incomplete_reinforced_galvan_plate": "Incomplete Reinforced Galvan Plate",
+  "creativetab.alienxcreate.titanium_tab": "Create X Alien"
+}
